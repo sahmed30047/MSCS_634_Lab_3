@@ -1,0 +1,4 @@
+Name: Shaffan Ahmed Student ID: 005030047
+
+
+This repository contains the completed work for the lab assignment focused on exploring clustering techniques using the Wine dataset from scikit-learn in a Jupyter Notebook with Python. The purpose of the lab was to load and prepare the dataset, apply K-Means and K-Medoids clustering with 3 clusters, calculate performance metrics like Silhouette Score and Adjusted Rand Index (ARI), and create visualizations to compare the results. Key insights from the clustering results show that both K-Means and K-Medoids performed well, with Silhouette Scores around 0.3 and ARI around 0.9, indicating good cluster separation and alignment with true labels; K-Means was slightly faster and suited for the dataset's spherical clusters, while K-Medoids showed similar results but might handle outliers better, though the dataset had few outliers.
